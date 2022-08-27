@@ -10,6 +10,8 @@ let myName = "Taylor";
 
 //CODE HERE
 
+let faveNum = 13;
+
 //////////////////PROBLEM 3////////////////////
 /* Create a variable called 'lovesCode' and assign it a boolean value. */
 
